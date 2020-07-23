@@ -1,0 +1,4 @@
+{
+  "mongoURI":
+    "mongodb+srv://archana:archu123@cluster0.ravx5.mongodb.net/<dbname>?retryWrites=true&w=majority",
+};
